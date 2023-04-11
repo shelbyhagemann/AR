@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{CB1C4607-0637-4A46-10E8-AF32A5BE2DBE}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Runtime/UI/CheckRenderLine.cs">
+    <Files>
+      <File FileName="Assets/Scripts/UIController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Runtime/UI/CheckRenderLine.cs" Line="10" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ARFramework" expanded="True">
+            <Node name="Assets" expanded="True" selected="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Runtime" expanded="True">
+                  <Node name="UI" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="bb8f4a98-5fe7-4028-893b-b5e098c309a5" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
